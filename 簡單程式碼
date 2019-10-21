@@ -1,3 +1,4 @@
+###
 ```
 
 for index in range(1, 11):
@@ -15,26 +16,35 @@ for index in range(1, 11):
 10
 
 ```
+###
 
+###
 ```
 print("321zxc")
 
 321zxc
 
 ```
+###
+
+###
 print(108*108/(108-38))
 
 166.62857142857143
 
 ```
+###
 
+###
 ```
 print("ABC"+"DEF")
 
 ABCDEF
 
 ```
+###
 
+###
 ```
 a= 1
 b= 2
@@ -47,7 +57,9 @@ print(add)
 1/2=0.5
 
 ```
+###
 
+###
 ```
 sum=0
 
@@ -59,7 +71,9 @@ print(sum)
 2500
 
 ```
+###
 
+###
 ```
 sum=0
 
@@ -72,7 +86,9 @@ print(sum)
 2500
 
 ```
+###
 
+###
 ```
 index = 0
 
@@ -98,7 +114,9 @@ gun,ma
 gun,ma
 
 ```
+###
 
+###
 ```
 input("Where do you live? ")
 
@@ -106,18 +124,26 @@ Where do you live? job
 'job'
 
 ```
+###
 
+###
 ```
 print("I live in Boston. ")
 
 I live in Boston
 
 ```
+###
+
+###
 user_place = input("Where do you live? ")
 
 Where do you live? job
 
 ```
+###
+
+###
 text = user_place.capitalize()+ "!"
 print(text) 
 print("I hear it's nice there!")
