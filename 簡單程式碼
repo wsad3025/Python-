@@ -1,13 +1,41 @@
+```
+
 for index in range(1, 11):
 	print(index)
 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
 
+```
+
+```
 print("321zxc")
 
+321zxc
+
+```
 print(108*108/(108-38))
 
+166.62857142857143
+
+```
+
+```
 print("ABC"+"DEF")
 
+ABCDEF
+
+```
+
+```
 a= 1
 b= 2
 c = a/b
@@ -15,6 +43,12 @@ print(a, "/", b, "=", c)
 add = str(a)+"/"+str(b)+"="+str(c)
 print(add)
 
+1 / 2 = 0.5
+1/2=0.5
+
+```
+
+```
 sum=0
 
 for x in range(1,101,2):
@@ -22,6 +56,11 @@ for x in range(1,101,2):
   
 print(sum)
 
+2500
+
+```
+
+```
 sum=0
 
 for x in range(1,101,2):
@@ -30,7 +69,81 @@ for x in range(1,101,2):
   
 print(sum)
 
+2500
+
+```
+
+```
 index = 0
 
 while index < 1:
   print("gun,ma")
+
+gun,ma
+gun,ma
+gun,ma
+gun,ma
+gun,ma
+gun,ma
+gun,ma
+gun,ma
+gun,ma
+gun,ma
+gun,ma
+gun,ma
+gun,ma
+gun,ma
+gun,ma
+gun,ma
+gun,ma
+
+```
+
+```
+input("Where do you live? ")
+
+Where do you live? job
+'job'
+
+```
+
+```
+print("I live in Boston. ")
+
+I live in Boston
+
+```
+user_place = input("Where do you live? ")
+
+Where do you live? job
+
+```
+text = user_place.capitalize()+ "!"
+print(text) 
+print("I hear it's nice there!")
+
+Job!
+I hear it's nice there!
+
+```
+num = int(input ("Enter a number to find the square of: "))
+user_input = input("Enter a integer to find the square of: ")
+num = int(user_input) 
+print(num*num)
+
+Enter a number to find the square of: 321
+Enter a integer to find the square of: 23
+529
+
+```
+
+```
+num1 = float(input("Enter a number: "))
+num2 = float(input("Enter another number: "))
+print(num1, "*", num2, "=", num1*num2)
+
+Enter a number: 321
+Enter another number: 23
+321.0 * 23.0 = 7383.0
+
+```
